@@ -10,7 +10,7 @@ function App() {
   // List of characters in alphabet
   const alphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U",
                     "V", "W", "X", "Y", "Z", "-"];
-  // States
+  // States:
   // State for letters chosen by user, empty array as default 
   const [lettersUsed, setLettersUsed] = useState([]);
   // State for letters the user hasnt chosen, whole alphabet as default
