@@ -1,6 +1,6 @@
 # Hangman Web App
 
-Demo of this game (Heroku): https://pacific-gorge-02862.herokuapp.com/game
+Demo of this game (Heroku): https://pacific-gorge-02862.herokuapp.com
 
 ## Instructions for use
 
