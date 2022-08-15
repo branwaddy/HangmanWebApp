@@ -1,3 +1,17 @@
+# Hangman Web App
+
+Demo of this game (Heroku): https://pacific-gorge-02862.herokuapp.com/game
+
+## Instructions for use
+
+1. Download zip of code
+2. Open terminal at root of folder: "npm -i" to install dependancies
+3. Click start button, random word will be pulled from dictionary text file
+4. Click any letter, if it is right the letter will be added to top of screen, otherwise the hangman picture will show error
+5. Click reset to choose new letter
+
+Enjoy!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
